@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Bem-vindo à página de bilugares do CASM!
+## Clube Asas de São Miguel
+### Clube de Parapente
 
 - Bulleted
 - List
